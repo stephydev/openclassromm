@@ -1,0 +1,222 @@
+.container-fluid{
+
+}
+
+.tete{
+
+}
+
+.tete1{
+    background-color: rgb(7, 7, 128);
+    font-size: 15px;
+    align-items: center;
+    text-align: center;
+}
+
+.para{
+    font-weight: bold;
+}
+
+.a1{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.a1:hover{
+    background-color: rgba(168, 168, 240, 0.891);
+    border-radius: 5px;
+}
+
+.tete2{
+    padding: 10px;
+    font-size: 20px;
+}
+
+.menu1{
+    text-decoration: rgb(74, 74, 230);
+    border-right: 1px solid #cccc;
+    padding: 5px;
+    color: black;
+}
+
+.menu2{
+    text-decoration: rgb(74, 74, 230);
+    padding: 5px;
+    color: black;
+}
+
+.loupe{
+   
+}
+
+.btn1{
+    background-color: white;
+    border: 1px solid rgb(74, 74, 230);
+    border-radius: 5px;
+}
+.btn1:hover{
+    background-color: rgba(168, 168, 240, 0.891);
+    border-radius: 5px;
+}
+
+.tete3{
+    background-color: rgb(95, 95, 213);
+    justify-content: center;
+}
+
+.baner{
+    float: right;
+}
+
+.droite{
+    padding: 50px;
+}
+
+.titre1{
+    background-color: rgb(7, 7, 128);
+    width: 230px;
+    color: white;
+    width: 280px;
+    
+}
+
+.paratitre1{
+    color: white;
+    font-size: 20px;
+}
+.btn2{
+    background-color: white;
+    border: 1px solid rgb(74, 74, 230);
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.milieu{
+    padding: 25px;
+    text-align: center;
+}
+
+h2{
+    color: rgb(7, 7, 128);
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.paratitre2{
+    color: grey;
+}
+
+.milieu2{
+    padding: 35px;
+    background-color: rgba(235, 232, 232, 0.926);
+}
+
+video{
+    height: 300px;
+    width: 470px;
+    float: right;
+}
+
+.titre2{
+    height: 50px;
+    width: 500px;
+    color: white;
+    background-color: rgb(95, 95, 213);
+}
+
+.paratitre3{
+    height: 300px;
+    width: 500px;
+}
+
+.paratitre31{
+    font-size: 20px;
+}
+
+.milieu3{
+    text-align: center;
+}
+
+.indic{
+    background-color: #8064A2;
+    border-color: #8064A2;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 25px;
+    width: 25px;
+    outline: rgb(7, 7, 128);
+    background-color: rgb(7, 7, 128);
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid rgb(7, 7, 128);
+}
+
+.sliderimg1{
+    float: right;
+}
+
+.sliderpara1{
+    text-align: left;
+    font-size: 17px;
+}
+
+.milieu4{
+   font-size: 17px;
+   padding: 45px;
+}
+
+.para4{
+    text-align: left;
+}
+
+.btn3{
+    color: rgb(95, 95, 213);
+    text-decoration: rgb(95, 95, 213);
+    width: 350px;
+    height: 200px;
+}
+.btn3:hover{
+    background-color: rgba(168, 168, 240, 0.891);
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.datab{
+    top: 320px;
+}
+
+.milieur5{
+    border-top: 1px solid #757575;
+    padding: 35px;
+}
+
+.para5{
+    text-align: left;
+    line-height: 40px;
+}
+
+.liensa{
+    text-decoration: none;
+    color: #0e30b6;
+}
+
+.liensb{
+    text-decoration: none;
+    color: #757575;
+}
+
+.telephone{
+    border-right: 1px solid #757575;
+    padding: 5px;
+}
+
+.paraicone{
+    padding: 20px;
+}
+
+.para6{
+    border-bottom: 1px solid black;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
